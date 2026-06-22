@@ -38,9 +38,9 @@ For development builds, use the `develop` branch refs for each package.
 This package depends on:
 
 - `com.deucarian.session`
-- `com.deucarian.api`
+- `com.deucarian.api` `1.1.1`
 
-Current package version: `1.0.2`.
+Current package version: `1.0.3`.
 
 It does not replace either package. It only adapts Session's current session token to API's authentication contract.
 

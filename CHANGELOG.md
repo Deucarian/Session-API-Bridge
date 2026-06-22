@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.3 - 2026-06-22
+
+- Updated the exact `com.deucarian.api` dependency to `1.1.1`.
+
 ## 1.0.2 - 2026-06-22
 
 - Updated package repository metadata to `Deucarian/Session-API-Integration`.
