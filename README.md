@@ -37,7 +37,7 @@ For development builds, use the `develop` branch refs for each package.
 
 This package depends on:
 
-- `com.deucarian.session`
+- `com.deucarian.session` `1.0.2`
 - `com.deucarian.api` `1.1.1`
 
 Current package version: `1.0.3`.
